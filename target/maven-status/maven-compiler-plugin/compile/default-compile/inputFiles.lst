@@ -1,0 +1,12 @@
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/MonitoringApplication.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/config/SecurityConfig.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/controller/AuthController.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/controller/DataController.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/controller/EnhancedProxyController.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/controller/IndexController.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/controller/ProxyController.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/dto/AuthDtos.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/model/Entities.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/repo/ProjectRepository.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/service/AuthService.java
+/Users/xmacx/Downloads/backend6/src/main/java/com/example/monitoring/service/MonitoringService.java
